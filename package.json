@@ -1,0 +1,15 @@
+{
+  "name": "theinertia-status",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Status dashboard for The Inertia",
+  "main": "server.js",
+  "author": "Ross Pfahler <ross.pfahler@gmail.com>",
+  "dependencies": {
+    "express": "4.12.3"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "repository": "http://www.github.com/ross-pfahler/theinertia-status"
+}
